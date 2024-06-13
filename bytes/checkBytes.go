@@ -14,6 +14,3 @@ func CheckBytes(file string) int {
 	return int(output.Size())
 }
 
-func Try(word string) string {
-	return word
-}
